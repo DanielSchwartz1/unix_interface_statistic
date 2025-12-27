@@ -6,3 +6,8 @@ This script collects the number of bytes received / transmitted per second for e
 
 # droppedpackets.sh
 This script collects the number of packets dropped for every Interface used and writes a logfile with timestamp
+
+## Archived
+
+This repository has been consolidated into:
+-> [https://github.com/DanielSchwartz1/production-diagnostics](https://github.com/DanielSchwartz1/production-diagnostics)
